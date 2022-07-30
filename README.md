@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emperor1881
 - 👀 I’m interested in coding but I am new.
 - 🌱 I’m currently learning lua.
-- 💞️ I’m looking to collaborate on nobody.
+- 💞️ Just Alone
 - 📫 How to reach me .You cant,I can
 
 <!---
