@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Emperor1881
-- 👀 I’m interested in coding but I am new.
-- 🌱 I’m currently learning lua.
-- 💞️ Just Alone
-- 📫 How to reach me .You cant,I can
+- 📫 Discord:emperor1881
 
 <!---
 Emperor1881/Emperor1881 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
